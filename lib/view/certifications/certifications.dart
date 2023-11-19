@@ -35,13 +35,3 @@ class Certifications extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
